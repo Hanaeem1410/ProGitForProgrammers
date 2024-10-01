@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using system;
+
+namespace ProGitForProgrammers
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+
 Console.WriteLine("Hello, World!");
+console.WriteLine("New line of code");
+
+        }
+    }
+}
