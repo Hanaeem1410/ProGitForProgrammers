@@ -9,6 +9,7 @@ namespace ProGitForProgrammers
 
 Console.WriteLine("Hello, World!");
 console.WriteLine("New line of code");
+console.WriteLine("A final line of code is added");
 
         }
     }
